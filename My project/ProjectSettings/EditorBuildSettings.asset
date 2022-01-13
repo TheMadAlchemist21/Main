@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Characters.unity
     guid: 75326a540e7a41648a8edd0f31314c39
+  - enabled: 1
+    path: Assets/Scenes/Pets.unity
+    guid: 01d7c1a340cc10144b71ea9f6fc6075c
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: 44b41408737a5a948a1301d2e749cbbe
   m_configObjects: {}
